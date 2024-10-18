@@ -76,7 +76,7 @@ September 2022 – Present
 - Organized weekly workshops on creative e-waste repurposing, engaging 20+ regular attendees   
 - Contributed technical writing to society publications, including creating an educational crossword puzzle
 
-**Drummer**, Various Bands, Middletown, CT
+**Drummer**, Various Bands, Middletown, CT  
 September 2023 - Present   
 - Collaborated with multiple bands, demonstrating versatility across diverse musical genres   
 - Composed and performed original drum parts, enhancing the overall musical arrangements   
