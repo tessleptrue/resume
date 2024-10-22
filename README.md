@@ -38,8 +38,9 @@ GPA: 4.37/4.00
 **Summer Research Assistant (faculty-selected)**, Wesleyan University, Middletown, CT  
 May 2024 – Present   
 - Spearheaded development of a novel directed circle model in the cooltt proof assistant, leveraging OCaml to advance cutting-edge research in type theory
+- Evolved the directed circle concept into a developmental language using OCaml, implementing comprehensive modifications across the refiner, compiler, type checker, and related system components
 - Advanced formal verification research by implementing and documenting a proof of the edit distance algorithm using Cubical Agda
-- Collaborated one-on-one with Professor Dan Licata on foundational computer science research, contributing to ongoing developments in proof assistant technology
+- Collaborated one-on-one with Professor Dan Licata on foundational computer science research, contributing to ongoing developments in proof assistant technology CopyRetryClaude does not have the ability to run the code it generates yet.
 
 **Computer Science II TA**, Wesleyan University, Middletown, CT  
 September 2024 – Present  
