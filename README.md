@@ -35,11 +35,11 @@ GPA: 4.37/4.00
 
 ## Experience
 
-**Research Assistant**, Wesleyan University, Middletown, CT  
+**Summer Research Assistant (faculty-selected)**, Wesleyan University, Middletown, CT  
 May 2024 – Present   
-- Implemented a model for a directed circle in the developmental proof assistant cooltt using OCaml, enhancing skills in functional programming and formal verification   
-- Utilized Cubical Agda to work on a proof of the edit distance algorithm, demonstrating proficiency in type theory and algorithmic problem-solving  
-- Collaborated closely with Professor Dan Licata, gaining experience in academic research methodologies and advanced computer science concepts
+- Spearheaded development of a novel directed circle model in the cooltt proof assistant, leveraging OCaml to advance cutting-edge research in type theory
+- Advanced formal verification research by implementing and documenting a proof of the edit distance algorithm using Cubical Agda
+- Collaborated one-on-one with Professor Dan Licata on foundational computer science research, contributing to ongoing developments in proof assistant technology
 
 **Computer Science II TA**, Wesleyan University, Middletown, CT  
 September 2024 – Present  
@@ -65,11 +65,12 @@ January 2024 – May 2024
 
 ## Extracurricular Activities
 
-**Program Director**, WESU 88.1 FM, Middletown, CT  
+**Program Director & Radio Host**, WESU 88.1 FM, Middletown, CT  
 September 2023 – Present   
-- Designed and managed a radio show application system, processing 50+ applications per semester   
-- Optimized programming schedule for 168 weekly broadcast hours, balancing community, student, and NPR content   
-- Contributed to strategic decision-making as a board member for an 85-year-old radio station
+- Designed and managed a radio show application system, processing 50+ applications per semester
+- Optimized programming schedule for 168 weekly broadcast hours, balancing community, student, and NPR content
+- Served as board member and strategic decision-maker for historic campus radio station
+- Produced and hosted weekly specialty music program for 2+ years, maintaining consistent listenership and developing original content
 
 **Board Member**, Disengineering Society, Middletown, CT  
 September 2022 – Present   
